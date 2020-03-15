@@ -1,0 +1,12 @@
+c:\users\jmunoz\source\repos\dreams4\dreams4\bin\Debug\dreams4.exe.config
+c:\users\jmunoz\source\repos\dreams4\dreams4\bin\Debug\dreams4.exe
+c:\users\jmunoz\source\repos\dreams4\dreams4\bin\Debug\dreams4.pdb
+c:\users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.csprojResolveAssemblyReference.cache
+c:\users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.Form1.resources
+c:\users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.Properties.Resources.resources
+c:\users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.csproj.GenerateResource.cache
+c:\users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.csproj.CoreCompileInputs.cache
+c:\users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.exe
+c:\users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.pdb
+C:\Users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.Proveedores.resources
+C:\Users\jmunoz\source\repos\dreams4\dreams4\obj\Debug\dreams4.Clientes.resources
